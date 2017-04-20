@@ -1,3 +1,0 @@
-Youtube API key : console.developers.google.com
-
-already in package.json : npm install --save youtube-api-search
